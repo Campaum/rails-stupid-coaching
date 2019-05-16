@@ -1,0 +1,41 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$black: rgb(70,70,70);
+
+h1 {
+  color: $black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+}
+
+h2 {
+  color: $black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+.box {
+  text-align: center;
+}
+
+.answer {
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: lighter;
+  text-decoration: none;
+}
